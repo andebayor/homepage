@@ -140,7 +140,7 @@ header {
   position: relative;
   z-index: 2;
   margin: 0 auto;
-  max-width: 0.8;
+  max-width: 1200px;
   top: 38px;
 }
 
